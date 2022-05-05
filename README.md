@@ -27,4 +27,9 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Project Image
+
+![Project Image](https://hizliresim.com/3ra2pz0)
+
+
 [Patika linkine buradan ulaşabilirsiniz.](https://patika.dev)
